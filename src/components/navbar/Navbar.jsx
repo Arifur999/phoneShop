@@ -108,7 +108,7 @@ const Navbar = () => {
                 to="/cart"
               >
                 <FaCartShopping size={20} />
-                <small className="absolute top-0 right-0 font-bold">{cart.length}</small>
+                <small className="absolute top-0 right-0arifur.rahman.we@gmail.com font-bold">{cart.length}</small>
               </NavLink>
             </li>
             <li>
